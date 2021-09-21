@@ -19,3 +19,4 @@ function number(x,y){
         return answer;
     }
 }
+console.log(number(5,4))
